@@ -1,0 +1,7 @@
+.movie-list {
+    background-color: white; /* Светлый фон по умолчанию */
+  }
+  
+  .app.dark .movie-list {
+    background-color: black; /* Темный фон при активной темной теме */
+  }
